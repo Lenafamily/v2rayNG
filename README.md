@@ -14,7 +14,7 @@ A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-cor
 </a>
 
 ### Telegram Channel
-[github_2dust](https://t.me/github_2dust)
+[github_2dust](https://t.me/lenafamily)
 
 ### Usage
 
