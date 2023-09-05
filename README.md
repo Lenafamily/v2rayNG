@@ -14,7 +14,7 @@ A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-cor
 </a>
 
 ### Telegram Channel
-[github_2dust](https://t.me/github_2dust)
+[github_2dust](https://t.me/lenafamily)
 
 ### Usage
 
@@ -24,7 +24,7 @@ A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-cor
 - latest official [domain list](https://github.com/v2fly/domain-list-community) and [ip list](https://github.com/v2fly/geoip) can be imported manually
 - possible to use third party dat file in the same folder, like [h2y](https://guide.v2fly.org/routing/sitedata.html#%E5%A4%96%E7%BD%AE%E7%9A%84%E5%9F%9F%E5%90%8D%E6%96%87%E4%BB%B6)
 
-### More in our [wiki](https://github.com/2dust/v2rayNG/wiki)
+### More in our [wiki](https://github.com/Lenafamily/v2rayNG)
 
 ### Development guide
 
